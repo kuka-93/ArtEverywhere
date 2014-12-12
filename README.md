@@ -1,4 +1,4 @@
 ArtEverywhere
 =============
 
-Art EveryWhere application for Google Technologies for Cloud and Web Development
+Art Everywhere application for Google Technologies for Cloud and Web Development
